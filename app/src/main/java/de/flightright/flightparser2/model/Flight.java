@@ -8,7 +8,7 @@ import java.util.Date;
 public class Flight {
 
     public String flightNumber;
-    public Date departureDate;
+    public String departureDate;
     public Date arrivalDate;
     public String departureAirport;
     public String arrivalAirport;

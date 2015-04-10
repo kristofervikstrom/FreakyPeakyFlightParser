@@ -1,0 +1,1265 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: kristofer.vikstrom@gmail.com
+Received: by 10.25.147.5 with SMTP id v5csp243922lfd;
+        Sat, 13 Dec 2014 02:05:09 -0800 (PST)
+X-Received: by 10.180.13.7 with SMTP id d7mr15303787wic.57.1418465108733;
+        Sat, 13 Dec 2014 02:05:08 -0800 (PST)
+Return-Path: <preflight-info@backclick.airberlin.com>
+Received: from mail02-backclick.airberlin.com (mail02-backclick.airberlin.com. [195.145.252.72])
+        by mx.google.com with SMTP id cg6si7217811wib.42.2014.12.13.02.05.08
+        for <kristofer.vikstrom@gmail.com>;
+        Sat, 13 Dec 2014 02:05:08 -0800 (PST)
+Received-SPF: pass (google.com: domain of preflight-info@backclick.airberlin.com designates 195.145.252.72 as permitted sender) client-ip=195.145.252.72;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of preflight-info@backclick.airberlin.com designates 195.145.252.72 as permitted sender) smtp.mail=preflight-info@backclick.airberlin.com;
+       dkim=pass (test mode) header.i=@backclick.airberlin.com
+DKIM-Signature: v=1; a=rsa-sha1; q=dns/txt; c=relaxed/simple; t=1418465074;
+	s=smtp201001; d=backclick.airberlin.com;
+	i=@backclick.airberlin.com;
+	h=Content-Transfer-Encoding:Date:From:Mime-Version:Reply-To:Subject:To:List-Unsubscribe;
+	bh=eSNLg70I1n2slpmXVxBsOKkbCIE=;
+	b=PRmNSN/chfa5oiz8iWlLxAc0knQfrji3PMLr944MY56R1Ft7wbqVtRXbsgL/HBU8
+	xgU+9fHMi1299WLIbh2K3DXOEI3KzPqVhcgbU0j3c9GQjohKjZv6+TPhuQQpIzt4neA
+	4pPJV9zPoEQuESB/QT9lq/gp+JKeBKn3oGtC9OZo=
+DomainKey-Signature: a=rsa-sha1; c=simple; q=dns; d=backclick.airberlin.com;
+	s=smtp201001; h=From:To:Subject:Mime-Version:Content-Type:Date;
+	b=A8pVaOhyOfdHu4zBs2z7XfawzeC0YJhXbWXh1hF1mLzsJi2elFBmBg7eexuxcIXf
+	XbDRq2NK/LNYZgPPnHlxnwMHcs9BYGn08/XXABXy3BFCavDzl842jNFYrJKDE4jSMSH
+	ExsjfLHOQs3PNemX7k2+nOyHUzrr2AMbVbIn/C2Y=
+From: "airberlin Flight Information" <preflight-info@backclick.airberlin.com>
+To: <kristofer.vikstrom@gmail.com>
+Reply-To: <preflight-info@backclick.airberlin.com>
+Subject: Your
+ flight to Gothenburg-Landvetter on 20.12.2014
+Message-ID: <g41380734.K21771.p290.d0.b3@mail02-backclick.airberlin.com>
+List-Unsubscribe: <http://backclick.airberlin.com/bc/servlet/rl?u=AQAAAAMAAFULAndrfgAAAAQAAAAAAAAAAAAAAADQGw>,<mailto:listunsubscribe-b41380734.R21771.B290.H0.J3@backclick.airberlin.com?subject=unsubscribe>
+List-Id: g41380734.K21771.p290.d0.b3.backclick.airberlin.com
+Mime-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+Date: Sat, 13 Dec 2014 11:02:29 +0100 (CET)
+X-CSA-Complaints: whitelist-complaints@eco.de
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<META http-equiv="content-type" content="text/html; charset=UTF-8">
+<style type="text/css">
+a {
+color: #cc1f2f;
+text-decoration:none;
+}
+</style>
+</head>
+<body style='background-color:#FFFFFF;'>
+<div id="dragableElementsParentBox" style="width:600px;background-color:#FFFFFF;">
+<table width="654" border="0" cellspacing="0" cellpadding="0" style="display:block;" align="center">
+<tr>
+<td align="center" width="632"><div style="background-color:#ebebeb;color:#b6b6b6;font-size:9px;font-family:Arial,Helvetica;">All the information regarding your airberlin flight to Gothenburg-Landvetter</div></td>
+</tr>
+</table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#ebebeb" style="display:block;" align="center">
+<tr>
+<td colspan="4" bgcolor="#ebebeb"></td>
+<td height="1" bgcolor="#ebebeb"></td>
+<td colspan="4" bgcolor="#ebebeb"></td>
+</tr>
+<tr>
+<td height="1" colspan="4" bgcolor="#ebebeb"></td>
+<td colspan="4" bgcolor="#ebebeb"></td>
+</tr>
+<tr>
+<td colspan="4" bgcolor="#ebebeb"></td>
+<td height="1" bgcolor="#d6d6d6"></td>
+<td bgcolor="#c8c8c8"></td>
+<td bgcolor="#d6d6d6"></td>
+<td bgcolor="#e3e3e3"></td>
+<td bgcolor="#ebebeb"></td>
+</tr>
+<tr>
+<td colspan="4" bgcolor="#ebebeb"></td>
+<td height="1" bgcolor="#c8c8c8"></td>
+<td colspan="4" bgcolor="#ebebeb"></td>
+</tr>
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632">
+<table width="592" border="0">
+<tr>
+<td width="632" align="center"><div style="margin-left:20px;margin-right:20px;width:100%; font-size:9px;font-family:Arial, Helvetica,sans-serif;color:#adadad;"><span style="">Our flight offers are not displayed? Please click here for the <a style="color: #cc1f2f;" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgARNpcAAAAAAAAAAAAAAAB4OA" target="_blank">Online Version. </a></span></div>
+</td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td><div style="width:632px;"><a style="" target="_blank" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-AwAAAAAAAAAAAAAAABgtw"><img style="" alt="All the information about your flight" src="http://backclick.airberlin.com/bc/assets/3/img/Endkunden/Header/header_pf_20141107_19564.jpg" width="632" height="306" border="0"></a></div></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr>
+</table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632">
+<table width="632" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top"><div style="margin-left:16px;margin-right:17px;margin-top:10px;color:#000000;font-family:Arial;font-size: 20px;">Good morning, Mr VIKSTROEM!</div><div style="margin-left:16px;margin-right:17px;margin-top:10px;color:#555555;font-family:Arial; font-size:12px;"><span style="">Thank you for choosing to fly with airberlin. We look forward to welcoming you on board in a few daysâ€™ time.
+</span></div><div style="margin-left:16px;margin-right:17px;margin-top:10px;margin-bottom:10px;color: #555555;font-family:Arial;font-size:12px;"><span style="">
+</span></div></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632">
+<table width="632" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top"><div style="margin-left:16px;margin-right:17px;margin-top:10px;color:#000000;font-family:Arial;font-size: 20px;"></div><div style="margin-left:16px;margin-right:17px;margin-top:10px;color:#555555;font-family:Arial; font-size:12px;"><span style=""><table style="font-family: Arial; color: #555555; font-size: 12px;" border="0">
+<tbody>
+<tr>
+<td width="200"><span style="font-size: 14px;"><strong>Your booking number:<br /><br /> </strong></span></td>
+<td><strong><span style="font-size: 14px;">6R8HFC<br /><br /></span></strong></td>
+</tr>
+<tr>
+<td><span style="font-size: 14px;"><strong>Outward flight:<br /><br /><br /></strong></span></td>
+<td><span style="font-size: 14px;"><strong>Berlin-Tegel - Gothenburg-Landvetter</strong><br />20.12.2014 21:35</span><br /><span style="font-size: 14px;">AB 8304</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 14px;"><strong>Return flight:<br /><br /><br /></strong></span></td>
+<td><span style="font-size: 14px;"><strong>Gothenburg-Landvetter - Berlin-Tegel</strong><br />04.01.2015 19:25</span><br /><span style="font-size: 14px;">AB 8301</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 14px;"><strong>Number of passengers:</strong></span></td>
+<td><span style="font-size: 14px;">1 </span>Person</td>
+</tr>
+</tbody>
+</table>
+</span></div><div style="margin-left:16px;margin-right:17px;margin-top:10px;margin-bottom:10px;color: #555555;font-family:Arial;font-size:12px;"><span style="">
+</span></div></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+
+
+
+
+
+
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+
+<table  width="654" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#FFFFFF">
+<tr>
+<td align="left" valign="top" width="11" height="35">
+<table cellspacing="0" cellpadding="0" border="0" width="11">
+<tr>
+<td height="35" width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+</tr>
+</table>
+</td>
+<td align="left" width="100%" height="35">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td colspan="2" nowrap height="30" bgcolor="#cc1f2f" style="font-family:Arial;font-size:17px;padding-left:13px;padding-right:8px;color:#fff; font-weight:bold">
+<span style="">Overview of our fare categories
+</span>
+</td>
+<td style="line-height:9px" width="100%"><img src="http://backclick.airberlin.com/bc/assets/0/img/Grafiken/pub_fahne_rot_rechts.jpg" width="5" height="30" alt=""></td>
+</tr>
+<tr>
+<td colspan="2" style="line-height:0" align="right" height="5"><div style="float:right;line-height:0"><img src="http://backclick.airberlin.com/bc/assets/0/img/Grafiken/pub_schatten_unten.jpg" width="195" height="5" alt="" align="right"></div></td>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="11" height="35" valign="top">
+<table cellspacing="0" cellpadding="0" border="0" width="11">
+<tr>
+<td height="35" width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td width="421" valign="top"><div style="margin-left:16px;margin-top:10px;font-size:17px;font-family:Arial,Helvetica;color:#000;"><span style="">Just as individual as you are: the airberlin fare structure
+</span></div>
+<div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;"><span style="">JustFly, FlyDeal, FlyClassic or FlyFlex â€“ please note the terms and conditions that apply to the fare category you have booked! <br /><a href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-A0AAAAAAAAAAAAAAADhtQ"><strong>Â» Overview of fare categories </strong></a>
+</span></div><div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;margin-bottom:10px;text-align:left;"></div></td>
+<td width="211" valign="top"><div style="margin-left:6px;margin-right:9px;margin-top:10px;margin-bottom:10px;"><a style="" target="_blank" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-A0AAAAAAAAAAAAAAADhtQ"><img style="" alt="Overview of our fare categories " src="http://backclick.airberlin.com/bc/assets/3/img/Endkunden/196x109/yourfare_2014_pf_19563.jpg" width="196" height="109" border="0"></a></div></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+
+
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table  width="654" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#FFFFFF">
+<tr>
+<td align="left" valign="top" width="11" height="35">
+<table cellspacing="0" cellpadding="0" border="0" width="11">
+<tr>
+<td height="35" width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+</tr>
+</table>
+</td>
+<td align="left" width="100%" height="35">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td colspan="2" nowrap height="30" bgcolor="#adadad" style="font-family:Arial;font-size:17px;padding-left:13px;padding-right:8px;color:#fff;font-weight:bold">
+<span style="">Additional services for your flight</span>
+</td>
+<td style="line-height:9px" width="100%"><img src="http://backclick.airberlin.com/bc/assets/0/img/Grafiken/pub_fahne_grau_rechts.jpg" width="5" height="30" alt=""></td>
+</tr>
+<tr>
+<td colspan="2" style="line-height:0" align="right" height="5"><div style="float:right;line-height:0"><img src="http://backclick.airberlin.com/bc/assets/0/img/Grafiken/pub_schatten_unten.jpg" width="195" height="5" alt="" align="right"></div></td>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="11" height="35" valign="top">
+<table cellspacing="0" cellpadding="0" border="0" width="11">
+<tr>
+<td height="35" width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td width="421" valign="top"><div style="margin-left:16px;margin-top:10px;font-size:17px;font-family:Arial,Helvetica;color:#000;"><span style="">Pick your favourite spot
+</span></div>
+<div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;"><span style="">Window, middle or aisle seat? Book your preferred seat now! We also recommend you make a seat reservation if you want to be sure of sitting next to your travelling companions.<br /><a href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-A4AAAAAAAAAAAAAAAAisA"><strong>Â» Make a seat reservation now </strong></a>
+</span></div><div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;margin-bottom:10px;text-align:left;"></div></td>
+<td width="211" valign="top"><div style="margin-left:6px;margin-right:9px;margin-top:10px;margin-bottom:10px;"><a style="" target="_blank" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-A4AAAAAAAAAAAAAAAAisA"><img style="" alt="Seat reservations" src="http://backclick.airberlin.com/bc/assets/3/img/Endkunden/sitzplatz_pf_12596.jpg" width="196" height="109" border="0"></a></div></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td width="421" valign="top"><div style="margin-left:16px;margin-top:10px;font-size:17px;font-family:Arial,Helvetica;color:#000;"><span style="">A treat above the clouds
+</span></div>
+<div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;"><span style="">Do you fancy a delicious gourmet meal? We only carry a limited choice on board â€“ so youâ€™d better play it safe and order your favourite meal in advance!<br /><a href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-A8AAAAAAAAAAAAAAACjsg"><strong>Â» Order a gourmet meal now </strong></a>
+</span></div><div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;margin-bottom:10px;text-align:left;"></div></td>
+<td width="211" valign="top"><div style="margin-left:6px;margin-right:9px;margin-top:10px;margin-bottom:10px;"><a style="" target="_blank" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-A8AAAAAAAAAAAAAAACjsg"><img style="" alt="Gourmet meals" src="http://backclick.airberlin.com/bc/assets/3/img/Endkunden/goml_2013_pf_12772.jpg" width="196" height="109" border="0"></a></div></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td width="421" valign="top"><div style="margin-left:16px;margin-top:10px;font-size:17px;font-family:Arial,Helvetica;color:#000;"><span style="">Additional baggage
+</span></div>
+<div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;"><span style="">If you are travelling with sports baggage or would like to check in more baggage than is already included in your free baggage allowance: simply book additional baggage online.<br /><strong><a href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-BAAAAAAAAAAAAAAAAA8mA">Â» Book additional baggage now </a></strong>
+</span></div><div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;margin-bottom:10px;text-align:left;"></div></td>
+<td width="211" valign="top"><div style="margin-left:6px;margin-right:9px;margin-top:10px;margin-bottom:10px;"><a style="" target="_blank" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-BAAAAAAAAAAAAAAAAA8mA"><img style="" alt="Additional baggage " src="http://backclick.airberlin.com/bc/assets/3/img/Endkunden/gepaeck196_pf_12596.jpg" width="196" height="109" border="0"></a></div></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td width="421" valign="top"><div style="margin-left:16px;margin-top:10px;font-size:17px;font-family:Arial,Helvetica;color:#000;"><span style="">Travel with your four-legged friend
+</span></div>
+<div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;"><span style="">You would like to travel with your four-legged friend? Depending on size, dogs and cats can be taken into the cabin with you or can be transported in the cargo hold.<br /> <strong><a href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-BEAAAAAAAAAAAAAAAC9mg">Â» Register your pet now</a></strong>
+</span></div><div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;margin-bottom:10px;text-align:left;"></div></td>
+<td width="211" valign="top"><div style="margin-left:6px;margin-right:9px;margin-top:10px;margin-bottom:10px;"><a style="" target="_blank" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-BEAAAAAAAAAAAAAAAC9mg"><img style="" alt="Pets" src="http://backclick.airberlin.com/bc/assets/3/img/Endkunden/haustiere_pf_12772.jpg" width="196" height="109" border="0"></a></div></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+
+<table  width="654" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#FFFFFF">
+<tr>
+<td align="left" valign="top" width="11" height="35">
+<table cellspacing="0" cellpadding="0" border="0" width="11">
+<tr>
+<td height="35" width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+</tr>
+</table>
+</td>
+<td align="left" width="100%" height="35">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td colspan="2" nowrap height="30" bgcolor="#adadad" style="font-family:Arial;font-size:17px;padding-left:13px;padding-right:8px;color:#fff;font-weight:bold">
+<span style="">Web Check-in
+</span>
+</td>
+<td style="line-height:9px" width="100%"><img src="http://backclick.airberlin.com/bc/assets/0/img/Grafiken/pub_fahne_grau_rechts.jpg" width="5" height="30" alt=""></td>
+</tr>
+<tr>
+<td colspan="2" style="line-height:0" align="right" height="5"><div style="float:right;line-height:0"><img src="http://backclick.airberlin.com/bc/assets/0/img/Grafiken/pub_schatten_unten.jpg" width="195" height="5" alt="" align="right"></div></td>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="11" height="35" valign="top">
+<table cellspacing="0" cellpadding="0" border="0" width="11">
+<tr>
+<td height="35" width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td bgcolor="#ebebeb"></td>
+<td bgcolor="#e3e3e3"></td>
+<td bgcolor="#d6d6d6"></td>
+<td bgcolor="#c8c8c8"></td>
+<td   align="center"><div style="margin-left:13px; margin-top:10px; margin-right:13px; width:606px"><a style="" target="_blank" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-BIAAAAAAAAAAAAAAAB_nw"><img style="" alt="Itâ€™s simple and convenient to check in online " src="http://backclick.airberlin.com/bc/assets/3/img/Endkunden/webcheckin_pf_EN_13209.jpg" width="606" height="165" border="0"></a></div></td>
+<td bgcolor="#c8c8c8"></td>
+<td bgcolor="#d6d6d6"></td>
+<td bgcolor="#e3e3e3"></td>
+<td bgcolor="#ebebeb"></td>
+</tr>
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td >
+<div style="margin-left:16px;margin-top:10px;margin-right:17px;font-size:17px;font-family:Arial,Helvetica;color:#000;"><span style="">It's simple and convenient to check in online
+</span></div>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr>
+<tr>
+<td bgcolor="#ebebeb"></td>
+<td bgcolor="#e3e3e3"></td>
+<td bgcolor="#d6d6d6"></td>
+<td bgcolor="#c8c8c8"></td>
+<td><div style="margin-left:16px;margin-top:10px;margin-right:17px;font-size:12px;font-family:Arial,Helvetica;color:#555555;"><span style="">Check in online or via your mobile phone between 30 hours and 45 minutes before your departure and avoid potential queues at the Check-in desk at the airport. There are separate baggage drop-off desks available at many airports for you to check in baggage.<br /><a href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-BIAAAAAAAAAAAAAAAB_nw"><strong>Â» Go to Web Check-in</strong></a>
+</span></div></td>
+<td bgcolor="#c8c8c8"></td>
+<td bgcolor="#d6d6d6"></td>
+<td bgcolor="#e3e3e3"></td>
+<td bgcolor="#ebebeb"></td>
+</tr>
+<tr>
+<td bgcolor="#ebebeb"></td>
+<td bgcolor="#e3e3e3"></td>
+<td bgcolor="#d6d6d6"></td>
+<td bgcolor="#c8c8c8"></td>
+<td><div style="margin-left:16px;margin-top:5px;margin-right:17px;margin-bottom:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;text-align:left;"></div></td>
+<td bgcolor="#c8c8c8"></td>
+<td bgcolor="#d6d6d6"></td>
+<td bgcolor="#e3e3e3"></td>
+<td bgcolor="#ebebeb"></td>
+</tr>
+</table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table  width="654" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#FFFFFF">
+<tr>
+<td align="left" valign="top" width="11" height="35">
+<table cellspacing="0" cellpadding="0" border="0" width="11">
+<tr>
+<td height="35" width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+</tr>
+</table>
+</td>
+<td align="left" width="100%" height="35">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td colspan="2" nowrap height="30" bgcolor="#adadad" style="font-family:Arial;font-size:17px;padding-left:13px;padding-right:8px;color:#fff;font-weight:bold">
+<span style="">Our service</span>
+</td>
+<td style="line-height:9px" width="100%"><img src="http://backclick.airberlin.com/bc/assets/0/img/Grafiken/pub_fahne_grau_rechts.jpg" width="5" height="30" alt=""></td>
+</tr>
+<tr>
+<td colspan="2" style="line-height:0" align="right" height="5"><div style="float:right;line-height:0"><img src="http://backclick.airberlin.com/bc/assets/0/img/Grafiken/pub_schatten_unten.jpg" width="195" height="5" alt="" align="right"></div></td>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="11" height="35" valign="top">
+<table cellspacing="0" cellpadding="0" border="0" width="11">
+<tr>
+<td height="35" width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td width="421" valign="top"><div style="margin-left:16px;margin-top:10px;font-size:17px;font-family:Arial,Helvetica;color:#000;"><span style="">Useful information on airports
+</span></div>
+<div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;"><span style="">We have prepared some useful information about your airport of destination.<br /><strong><a href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-JgAAAAAAAAAAAAAAAC1eA">Â» Go to airport information </a></strong>
+</span></div><div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;margin-bottom:10px;text-align:left;"></div></td>
+<td width="211" valign="top"><div style="margin-left:6px;margin-right:9px;margin-top:10px;margin-bottom:10px;"><a style="" target="_blank" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-JgAAAAAAAAAAAAAAAC1eA"><img style="" alt="Useful information on airports " src="http://backclick.airberlin.com/bc/assets/3/img/Endkunden/airport_infos_pf_12549.jpg" width="196" height="109" border="0"></a></div></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td width="421" valign="top"><div style="margin-left:16px;margin-top:10px;font-size:17px;font-family:Arial,Helvetica;color:#000;"><span style="">The right travel guide
+</span></div>
+<div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;"><span style="">airberlinâ€™s free Arrival Guide provides useful information and detailed maps of your destination. <br /><a href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-BMAAAAAAAAAAAAAAAD-nQ"><strong>Â» Download your free Arrival Guide </strong></a>
+</span></div><div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;margin-bottom:10px;text-align:left;"></div></td>
+<td width="211" valign="top"><div style="margin-left:6px;margin-right:9px;margin-top:10px;margin-bottom:10px;"><a style="" target="_blank" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-BQAAAAAAAAAAAAAAAC4lg"><img style="" alt="The right travel guide " src="http://backclick.airberlin.com/bc/assets/3/img/Endkunden/arrivalguide_pf_12772.jpg" width="196" height="109" border="0"></a></div></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+
+
+
+
+
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+
+
+<table  width="654" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#FFFFFF">
+<tr>
+<td align="left" valign="top" width="11" height="35">
+<table cellspacing="0" cellpadding="0" border="0" width="11">
+<tr>
+<td height="35" width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+</tr>
+</table>
+</td>
+<td align="left" width="100%" height="35">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td colspan="2" nowrap height="30" bgcolor="#adadad" style="font-family:Arial;font-size:17px;padding-left:13px;padding-right:8px;color:#fff;font-weight:bold">
+<span style="">topbonus
+</span>
+</td>
+<td style="line-height:9px" width="100%"><img src="http://backclick.airberlin.com/bc/assets/0/img/Grafiken/pub_fahne_grau_rechts.jpg" width="5" height="30" alt=""></td>
+</tr>
+<tr>
+<td colspan="2" style="line-height:0" align="right" height="5"><div style="float:right;line-height:0"><img src="http://backclick.airberlin.com/bc/assets/0/img/Grafiken/pub_schatten_unten.jpg" width="195" height="5" alt="" align="right"></div></td>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="11" height="35" valign="top">
+<table cellspacing="0" cellpadding="0" border="0" width="11">
+<tr>
+<td height="35" width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td width="315" valign="top"><div style="margin-left:16px;margin-right:5px;margin-top:10px;font-size:17px;font-family:Arial, Helvetica;color:#000;"><span style="">Earn miles â€“ with more than <br />120 topbonus partners
+</span></div><div style="margin-left:16px;margin-right:5px;margin-top:10px;font-size:12px; font-family:Arial,Helvetica;color:#555555;"><span style="">Top up your mileage account with flights around the world as well as with products and services offered by over 120 partners. It has never been easier to earn topbonus miles, whether for your hotel or rental car booking, for shopping in the Duty Free shop or for your hotel review! Your next award flight will soon be within reach.<br /><a href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-JsAAAAAAAAAAAAAAAB2fQ"><strong>Â» All topbonus partners<br /></strong></a>
+</span></div>
+<div style="margin-left:16px;margin-right:5px;margin-top:5px;margin-bottom:10px;font-size:12px;font-family:Arial,Helvetica; color:#555555;text-align:left;"></div></td>
+<td width="317" valign="top"><div style="margin-left:14px;margin-right:15px;margin-top:10px;margin-bottom:10px;"><a style="" target="_blank" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-JsAAAAAAAAAAAAAAAB2fQ"><img style="" alt="Earn miles â€“ with more than 120 topbonus partners" src="http://backclick.airberlin.com/bc/assets/3/img/Endkunden/topbonus_pf_12596.jpg" width="291" height="191" border="0"></a></div></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table  width="654" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#FFFFFF">
+<tr>
+<td align="left" valign="top" width="11" height="35">
+<table cellspacing="0" cellpadding="0" border="0" width="11">
+<tr>
+<td height="35" width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+</tr>
+</table>
+</td>
+<td align="left" width="100%" height="35">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td colspan="2" nowrap height="30" bgcolor="#adadad" style="font-family:Arial;font-size:17px;padding-left:13px;padding-right:8px;color:#fff;font-weight:bold">
+<span style="">Have you thought of everything?</span>
+</td>
+<td style="line-height:9px" width="100%"><img src="http://backclick.airberlin.com/bc/assets/0/img/Grafiken/pub_fahne_grau_rechts.jpg" width="5" height="30" alt=""></td>
+</tr>
+<tr>
+<td colspan="2" style="line-height:0" align="right" height="5"><div style="float:right;line-height:0"><img src="http://backclick.airberlin.com/bc/assets/0/img/Grafiken/pub_schatten_unten.jpg" width="195" height="5" alt="" align="right"></div></td>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="11" height="35" valign="top">
+<table cellspacing="0" cellpadding="0" border="0" width="11">
+<tr>
+<td height="35" width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td width="421" valign="top"><div style="margin-left:16px;margin-top:10px;font-size:17px;font-family:Arial,Helvetica;color:#000;"><span style="">Car rental
+</span></div>
+<div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;"><span style="">Step off the plane directly into a car: our premium partners Hertz and Sixt offer first class service and attractive conditions.<br /><a href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-BYAAAAAAAAAAAAAAAD6kQ"><strong>Â» Further information</strong></a>
+</span></div><div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;margin-bottom:10px;text-align:left;"></div></td>
+<td width="211" valign="top"><div style="margin-left:6px;margin-right:9px;margin-top:10px;margin-bottom:10px;"><a style="" target="_blank" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-BYAAAAAAAAAAAAAAAD6kQ"><img style="" alt="Car rental " src="http://backclick.airberlin.com/bc/assets/3/img/Endkunden/mietwagen_pf_12744.jpg" width="196" height="109" border="0"></a></div></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td width="421" valign="top"><div style="margin-left:16px;margin-top:10px;font-size:17px;font-family:Arial,Helvetica;color:#000;"><span style="">Hotel
+</span></div>
+<div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;"><span style="">Whether you choose a city break or a beach holiday, you are sure to find a suitable hotel , even at short notice, and a guarantee of the best price with our premium partner HRS.<br /><a href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-BcAAAAAAAAAAAAAAAB7kw"><strong>Â» Further information</strong></a>
+</span></div><div style="margin-left:16px;margin-top:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;margin-bottom:10px;text-align:left;"></div></td>
+<td width="211" valign="top"><div style="margin-left:6px;margin-right:9px;margin-top:10px;margin-bottom:10px;"><a style="" target="_blank" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-BcAAAAAAAAAAAAAAAB7kw"><img style="" alt="Hotel" src="http://backclick.airberlin.com/bc/assets/3/img/Endkunden/hotel_pf_12744.jpg" width="196" height="109" border="0"></a></div></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+
+
+
+
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+
+<table  width="654" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#FFFFFF">
+<tr>
+<td align="left" valign="top" width="11" height="35">
+<table cellspacing="0" cellpadding="0" border="0" width="11">
+<tr>
+<td height="35" width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+</tr>
+</table>
+</td>
+<td align="left" width="100%" height="35">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<td colspan="2" nowrap height="30" bgcolor="#adadad" style="font-family:Arial;font-size:17px;padding-left:13px;padding-right:8px;color:#fff;font-weight:bold">
+<span style="">Current airberlin flight offers
+</span>
+</td>
+<td style="line-height:9px" width="100%"><img src="http://backclick.airberlin.com/bc/assets/0/img/Grafiken/pub_fahne_grau_rechts.jpg" width="5" height="30" alt=""></td>
+</tr>
+<tr>
+<td colspan="2" style="line-height:0" align="right" height="5"><div style="float:right;line-height:0"><img src="http://backclick.airberlin.com/bc/assets/0/img/Grafiken/pub_schatten_unten.jpg" width="195" height="5" alt="" align="right"></div></td>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="11" height="35" valign="top">
+<table cellspacing="0" cellpadding="0" border="0" width="11">
+<tr>
+<td height="35" width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td bgcolor="#ebebeb"></td>
+<td bgcolor="#e3e3e3"></td>
+<td bgcolor="#d6d6d6"></td>
+<td bgcolor="#c8c8c8"></td>
+<td   align="center"><div style="margin-left:13px; margin-top:10px; margin-right:13px; width:606px"><a style="" target="_blank" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-BkAAAAAAAAAAAAAAAD1hQ"><img style="" alt="Current airberlin flight offers" src="http://backclick.airberlin.com/bc/assets/3/img/Endkunden/angebote_pf_12751.jpg" width="606" height="165" border="0"></a></div></td>
+<td bgcolor="#c8c8c8"></td>
+<td bgcolor="#d6d6d6"></td>
+<td bgcolor="#e3e3e3"></td>
+<td bgcolor="#ebebeb"></td>
+</tr>
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td >
+<div style="margin-left:16px;margin-top:10px;margin-right:17px;font-size:17px;font-family:Arial,Helvetica;color:#000;"><span style="">
+</span></div>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr>
+<tr>
+<td bgcolor="#ebebeb"></td>
+<td bgcolor="#e3e3e3"></td>
+<td bgcolor="#d6d6d6"></td>
+<td bgcolor="#c8c8c8"></td>
+<td><div style="margin-left:16px;margin-top:10px;margin-right:17px;font-size:12px;font-family:Arial,Helvetica;color:#555555;"><span style="">Time for your next trip? Here you will find <strong><a href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-BkAAAAAAAAAAAAAAAD1hQ"><span style="font-size: 14px;">Â» our current offers on RETURN flights </span><br /></a></strong>
+</span></div></td>
+<td bgcolor="#c8c8c8"></td>
+<td bgcolor="#d6d6d6"></td>
+<td bgcolor="#e3e3e3"></td>
+<td bgcolor="#ebebeb"></td>
+</tr>
+<tr>
+<td bgcolor="#ebebeb"></td>
+<td bgcolor="#e3e3e3"></td>
+<td bgcolor="#d6d6d6"></td>
+<td bgcolor="#c8c8c8"></td>
+<td><div style="margin-left:16px;margin-top:5px;margin-right:17px;margin-bottom:10px;font-size:12px;font-family:Arial,Helvetica;color:#555555;text-align:left;"></div></td>
+<td bgcolor="#c8c8c8"></td>
+<td bgcolor="#d6d6d6"></td>
+<td bgcolor="#e3e3e3"></td>
+<td bgcolor="#ebebeb"></td>
+</tr>
+</table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632">
+<table width="632" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top"><div style="margin-left:16px;margin-right:17px;margin-top:10px;color:#000000;font-family:Arial;font-size: 20px;"></div><div style="margin-left:16px;margin-right:17px;margin-top:10px;color:#555555;font-family:Arial; font-size:12px;"><span style=""><strong><a href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-BoAAAAAAAAAAAAAAAA2gA"><img src="http://backclick.airberlin.com/bc/assets/0/img/Endkunden/icons/newsletter_symbol_9850.jpg" alt="" width="30" height="18" /></a>Â  Keep up-to-date </strong>
+</span></div><div style="margin-left:16px;margin-right:17px;margin-top:10px;margin-bottom:10px;color: #555555;font-family:Arial;font-size:12px;"><span style="">New destinations on our route network, flight schedules as they are published, new service deals or current special offers â€“ with the airberlin Newsletter you always have the latest information.<br /><a href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-BoAAAAAAAAAAAAAAAA2gA"><strong>Â» Order your free Newsletter</strong></a>
+</span></div></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" height="20">
+<table width="632" border="0">
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr></table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#ebebeb" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" bgcolor="#e2e2e2">
+<div style="color:#545454;font-family:Arial,Helvetica,sans-serif;font-size:9px;">
+<table border="0" width="592" style="color:#545454;font-family:Arial,Helvetica,sans-serif;font-size:9px;margin-left:20px;margin-right:20px;margin-bottom:10px;margin-top:10px;">
+<tr>
+<td width="158" style="padding-left:2px; padding-bottom: 0px; text-align: left;"><a style="" target="_blank" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-KQAAAAAAAAAAAAAAACJKA"><img style="" alt="Etihad Airways - Premium Airline Partner" src="http://backclick.airberlin.com/bc/assets/0/img/Logos/pub_ey_40px.gif" width="75" height="40" border="0"></a></td>
+<td width="178" style="padding-top: 0px; padding-left: 0px; text-align: center;"><a style="" target="_blank" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-BwAAAAAAAAAAAAAAADwiQ"><img style="" alt="NIKI - Premium Airline Partner" src="http://backclick.airberlin.com/bc/assets/0/img/Logos/pub_niki_40px.gif" width="66" height="40" border="0"></a></td>
+<td width="128" style="padding-left: 0px; text-align: center;"><a style="" target="_blank" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-B0AAAAAAAAAAAAAAABxiw"><img style="" alt="Oneworld - Airline Alliance" src="http://backclick.airberlin.com/bc/assets/0/img/Logos/ow_40px_transp_11714.gif" width="40" height="40" border="0"></a></td>
+<td width="158" style="padding-right: 10px; text-align: right;"><a style="" target="_blank" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-B4AAAAAAAAAAAAAAACyjg"><img style="" alt="airberlin holidays" src="http://backclick.airberlin.com/bc/assets/3/img/Logos/airberlin_holidays_40px_12898.gif" width="111" height="40" border="0"></a></td>
+</tr>
+</table>
+</div>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr>
+</table>
+<table width="654" border="0" cellspacing="0" cellpadding="0" bgcolor="#ebebeb" style="display:block;" align="center">
+<tr>
+<td width="8" bgcolor="#ebebeb"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="632" bgcolor="#e2e2e2">
+<div style="color:#545454;font-family:Arial,Helvetica,sans-serif;font-size:9px;margin-left:20px;margin-right:20px;margin-bottom:10px;margin-top:10px;"><span style=""><br /><br />The information in this email has been compiled on the basis of the booking you made on airberlin.com. If you have since amended your booking, please disregard this email. The information contained in this email is without guarantee and does not form part of the contract
+of carriage. This email does not replace your confirmation of booking. <br /><br />If you do not wish to receive this information service on future flights you can <a href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-B8AAAAAAAAAAAAAAAAzjA"><span style="color: #cc1f2f;"><span style="text-decoration: underline;">unsubscribe here</span></span></a>.
+</span></div>
+<div style="color:#545454;font-family:Arial,Helvetica,sans-serif;font-size:9px;margin-left:20px;margin-right:20px;margin-bottom:10px;margin-top:10px;"><span style="">If you have any questions please use our <a href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-CAAAAAAAAAAAAAAAADM2Q"><strong>contact form.</strong></a><br /><br />Â© Photos: Arrival Guides: Martin Valigursky, Berlin: sborisov, New York: Delepine Antony, Caribbean: perfectpixel (all Fotolia.com), Insurance: .shock/istockphoto.com, Car rental: diego cervo/Fotolia.com, Hotel: Viacheslav_Khmelnytskyi/istockphoto.com<br />Â© 2014, <a style="color: #545454; font-family: Arial,Helvetica,sans-serif; font-size: 9px;
+text-decoration: underline;" href="http://backclick.airberlin.com/bc/servlet/rl?r=AQAAAAMAAFULAndrfgAP-CEAAAAAAAAAAAAAAABN2w">Information on data protection </a><br /> <br /> Address: Air Berlin PLC &amp; Co. Luftverkehrs KG / Saatwinkler Damm 42-43 / D-13627 Berlin<br /> Phone: +49 (0)30 3434 3434 <br id="tinymce" class="mceContentBody " /> Commercial Register No.: 23373 / Local court: Berlin Charlottenb. / VAT Reg. No. : DE 13 666 27 80 /Product Liability Act (PHG): AIR BERLIN PLC / HRB: 100000B<br /> CEO: Wolfgang Prock-Schauer
+</span></div>
+<div style="color:#545454;font-family:Arial,Helvetica,sans-serif;font-size:9px;margin-left:20px;margin-right:20px;margin-bottom:10px;margin-top:10px;"><span style="">
+</span></div>
+</td>
+<td width="1" bgcolor="#c8c8c8"></td>
+<td width="1" bgcolor="#d6d6d6"></td>
+<td width="1" bgcolor="#e3e3e3"></td>
+<td width="8" bgcolor="#ebebeb"></td>
+</tr>
+<tr>
+<td bgcolor="#ebebeb"></td>
+<td bgcolor="#e3e3e3"></td>
+<td bgcolor="#d6d6d6"></td>
+<td bgcolor="#c8c8c8"></td>
+<td bgcolor="#c8c8c8" height="1"></td>
+<td bgcolor="#c8c8c8"></td>
+<td colspan="3" bgcolor="#ebebeb"></td>
+</tr>
+<tr>
+<td colspan="3" bgcolor="#ebebeb"></td>
+<td bgcolor="#c8c8c8"></td>
+<td bgcolor="#d6d6d6" height="1"></td>
+<td bgcolor="#d6d6d6"></td>
+<td colspan="3" bgcolor="#ebebeb"></td>
+</tr>
+<tr>
+<td colspan="4" bgcolor="#ebebeb"></td>
+<td bgcolor="#e3e3e3" height="1"></td>
+<td colspan="4" bgcolor="#ebebeb"></td>
+</tr>
+<tr>
+<td colspan="4" bgcolor="#ebebeb"></td>
+<td bgcolor="#ebebeb" height="1"></td>
+<td colspan="4" bgcolor="#ebebeb"></td>
+</tr>
+</table>
+</div><div style="display:none;max-height:0px"><img src="http://backclick.airberlin.com/bc/servlet/rl?o=AQAAAAMAAFULAndrfgAAAAIAAAAAAAAAAAAAAAAWEg" alt="" width="1" height="1" border="0"></div>
+</body>
+</html>

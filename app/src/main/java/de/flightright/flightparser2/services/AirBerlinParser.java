@@ -19,34 +19,25 @@ import de.flightright.flightparser2.model.Flight;
  */
 public class AirBerlinParser implements Parser {
 
+    public String content;
+
+    public AirBerlinParser(String content) {
+        this.content = content;
+    }
+
     @Override
     public DisplayObject getDisplayObject() {
 
         DisplayObject displayObject = new DisplayObject();
-        String fileToString = "";
-
-        try {
-            File file = new File("res/TestFiles/airberlin.txt");
-            FileInputStream is = new FileInputStream(file);
-            int size = is.available();
-            byte[] buffer = new byte[size];
-            is.read(buffer);
-            is.close();
-            fileToString = new String(buffer);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        displayObject.reservationNumber = getReservationNumber(fileToString);
-        displayObject.flightList = getFlights(fileToString);
+        displayObject.reservationNumber = getReservationNumber(content);
+        displayObject.flightList = getFlights(content);
 
         return displayObject;
     }
 
     private String getReservationNumber(String fileToString) {
         List<String> actual = new LinkedList<String>();
-        Pattern pattern = Pattern.compile("<td width=\"200\"><span style=\"font-size: 14px;\"><strong>Your booking number:<br /><br /> </strong></span></td>\n" +
-                "    <td><strong><span style=\"font-size: 14px;\">");
+        Pattern pattern = Pattern.compile("<td><strong><span style=\"font-size: 14px;\">\\w{6}<br /><br /></span></strong></td>");
         Matcher matcher = pattern.matcher(fileToString);
         while (matcher.find()) {
             actual.add(matcher.group());
@@ -55,13 +46,19 @@ public class AirBerlinParser implements Parser {
     }
 
    private List<Flight> getFlights(String fileToString) {
-        List<String> actual = new LinkedList<String>();
-        Pattern pattern = Pattern.compile("<td><span style=\"font-size: 14px;\"><strong>Berlin-Tegel - Gothenburg-Landvetter</strong><br />20.12.2014 21:35</span><br /><span style=\"font-size: 14px;\">AB 8304</span></td>");
+        List<Flight> actual = new LinkedList<Flight>();
+        Pattern pattern = Pattern.compile("<td><span style=\"font-size: 14px;\"><strong>\\w+-\\w+\\s-\\s\\w+-\\w+</strong><br />[0-9]{2}.[0-9]{2}.[0-9]{4}</span><br /><span style=\"font-size: 14px;\">\\w+\\s[0-9]{1,4}</span></td>");
         Matcher matcher = pattern.matcher(fileToString);
         while (matcher.find()) {
-            actual.add(matcher.group());
+            Flight flight = new Flight();
+            flight.departureAirport = matcher.group(0);
+            flight.departureDate = matcher.group(1);
+            flight.flightNumber = matcher.group(2);
+            actual.add(flight);
         }
-        return null;
+        return actual;
    }
+
+
 
 }
