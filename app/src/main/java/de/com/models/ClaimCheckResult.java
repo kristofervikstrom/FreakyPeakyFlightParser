@@ -1,4 +1,4 @@
-package com.models;
+package de.com.models;
 
 public class ClaimCheckResult {
 

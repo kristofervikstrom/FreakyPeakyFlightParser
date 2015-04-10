@@ -1,8 +1,8 @@
-package com.view;
+package de.com.view;
 
 import android.content.Context;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -19,7 +19,6 @@ import com.services.FlightScanService;
 import com.services.hardcoded.HardCodedClaimCheck;
 import com.services.hardcoded.HardCodedFlightScan;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 

@@ -1,12 +1,13 @@
-package com.view;
+package de.com.view;
 
 import android.content.Context;
 import android.widget.ArrayAdapter;
 
-import com.models.Flight;
 
 import java.util.HashMap;
 import java.util.List;
+
+import de.com.models.Flight;
 
 public class FlightArrayAdapter extends ArrayAdapter<Flight> {
 

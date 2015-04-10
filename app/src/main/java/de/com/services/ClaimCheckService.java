@@ -1,7 +1,7 @@
-package com.services;
+package de.com.services;
 
-import com.models.ClaimCheckResult;
-import com.models.Flight;
+import de.com.models.ClaimCheckResult;
+import de.com.models.Flight;
 
 public interface ClaimCheckService {
 

@@ -1,8 +1,9 @@
-package com.services;
+package de.com.services;
 
-import com.models.Flight;
 
 import java.util.List;
+
+import de.com.models.Flight;
 
 public interface FlightScanService {
 
